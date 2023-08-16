@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/MealApp/static/css/main.00ce582a.css",
+    "main.js": "/MealApp/static/js/main.12652313.js",
+    "static/media/banner2.jpg": "/MealApp/static/media/banner2.e7ad367b439e5976982c.jpg",
+    "static/media/banner1.jpg": "/MealApp/static/media/banner1.4a22023cff4193b1a858.jpg",
+    "static/media/banner3.jpg": "/MealApp/static/media/banner3.676c0c0002538cfeb8da.jpg",
+    "static/media/banner4.jpg": "/MealApp/static/media/banner4.aa0383ac377bf790e6ce.jpg",
+    "static/media/banner5.jpg": "/MealApp/static/media/banner5.524c308fb92fbcf5c060.jpg",
+    "static/media/logo.png": "/MealApp/static/media/logo.d9f81479c78590007efe.png",
+    "index.html": "/MealApp/index.html",
+    "main.00ce582a.css.map": "/MealApp/static/css/main.00ce582a.css.map",
+    "main.12652313.js.map": "/MealApp/static/js/main.12652313.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00ce582a.css",
+    "static/js/main.12652313.js"
+  ]
+}
